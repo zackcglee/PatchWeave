@@ -5,7 +5,7 @@ import os
 
 # ------------------- Directories --------------------
 
-DIRECTORY_MAIN = os.getcwd()
+DIRECTORY_MAIN = "/patchweave"
 DIRECTORY_LOG = DIRECTORY_MAIN + "/logs"
 DIRECTORY_OUTPUT_BASE = DIRECTORY_MAIN + "/output"
 DIRECTORY_OUTPUT = ""
